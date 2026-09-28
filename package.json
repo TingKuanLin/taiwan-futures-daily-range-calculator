@@ -1,0 +1,10 @@
+{
+  "name": "daily-range-calculator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline static HTML calculator for Taiwan futures daily average range.",
+  "scripts": {
+    "start": "npx serve .",
+    "vercel-build": "echo \"Static HTML site; no build step required.\""
+  }
+}
